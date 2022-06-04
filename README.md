@@ -1,2 +1,5 @@
 # Final-Exam-Data-science
-Crawl stock data + predict stock price
+
+## Run all files by this order below :
+
+### 1. Run file scrapingdata.ipynb -> data will save as folder "raw data''
