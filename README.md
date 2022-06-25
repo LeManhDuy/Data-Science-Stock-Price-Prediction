@@ -8,5 +8,5 @@
 
 ### 3. Run file EDA.ipynb -> presenting data in chart and figure
 
-### 4. Run fife feature_engineering.ipynb -> this section include create new feature and data modeling
+### 4. Run fife feature_engineering_and_modeling.ipynb -> this section include feature engineering and data modeling
 
